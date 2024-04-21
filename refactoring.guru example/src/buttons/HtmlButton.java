@@ -1,4 +1,3 @@
-
 package buttons;
 
 public class HtmlButton implements Button {
